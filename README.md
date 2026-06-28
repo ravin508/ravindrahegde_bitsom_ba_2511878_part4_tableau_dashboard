@@ -1,7 +1,6 @@
 # Part 4: Tableau Executive Dashboard & Data Storytelling
-**Student**: Ravindra Hegde (Ravi)  
+**Student**: Ravindra Hegde
 **Course**: BITSOM BA (Business Analytics)  
-**Submission File**: `ravindrahegde_bitsom_ba_2511878_part4_tableau_dashboard.twbx` (or .twb + data extract)  
 **Date**: June 2026
 
 ---
